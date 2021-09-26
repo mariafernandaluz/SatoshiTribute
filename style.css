@@ -11,15 +11,22 @@ ul{
   text-align: text-justify;
   margin: 30px 300px 30px 300px;
 }
+legend {
+  text-align: center;
+}
 h3 {
   font-style: italic;
    text-align: text-justify;
   margin: 30px 300px 30px 300px;
 }
-img{
-  border-radius: 05%;
-  width: 40%;
-  height: 40%;
+#image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+border-radius: 5%;
 }
 h3{
   font-size: 150%;
